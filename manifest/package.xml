@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
+    <members>CreateOppty</members>
+    <members>TestCreateOppty</members>
     <members>th_con_app__PlaygroundInstaller</members>
     <members>th_con_app__PlaygroundInstallerTests</members>
     <members>th_con_app__WelcomeFinder</members>
@@ -8,6 +10,7 @@
     <name>ApexClass</name>
   </types>
   <types>
+    <members>AccountsTab</members>
     <members>th_con_app__ThHomepage</members>
     <name>ApexPage</name>
   </types>
@@ -25,6 +28,10 @@
     <members>Case</members>
     <members>Lead</members>
     <name>AssignmentRules</name>
+  </types>
+  <types>
+    <members>CreateOppty</members>
+    <name>AuraDefinitionBundle</name>
   </types>
   <types>
     <members>Case</members>
@@ -159,8 +166,17 @@
     <name>CustomObject</name>
   </types>
   <types>
+    <members>TrailheaDX_Registration</members>
+    <name>CustomPageWebLink</name>
+  </types>
+  <types>
     <members>th_con_app__Welcome</members>
     <name>CustomTab</name>
+  </types>
+  <types>
+    <members>Company_Images</members>
+    <members>Company_Images/LEX_Badge.png</members>
+    <name>Document</name>
   </types>
   <types>
     <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
@@ -196,6 +212,10 @@
     <members>LightningSalesConsole_UtilityBar</members>
     <members>LightningService_UtilityBar</members>
     <name>FlexiPage</name>
+  </types>
+  <types>
+    <members>TrailheaDX Registration</members>
+    <name>HomePageComponent</name>
   </types>
   <types>
     <members>DE Default</members>
