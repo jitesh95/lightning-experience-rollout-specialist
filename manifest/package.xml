@@ -39,12 +39,21 @@
     <name>AutoResponseRules</name>
   </types>
   <types>
+    <members>Opportunity.Opportunity Path</members>
+    <name>BusinessProcess</name>
+  </types>
+  <types>
     <members>DataCloudGeoLocation</members>
     <name>CleanDataService</name>
   </types>
   <types>
     <members>Internal Zone</members>
     <name>Community</name>
+  </types>
+  <types>
+    <members>Account.Others</members>
+    <members>Account.Sales</members>
+    <name>CompactLayout</name>
   </types>
   <types>
     <members>standard__AppLauncher</members>
@@ -371,6 +380,10 @@
     <name>MatchingRules</name>
   </types>
   <types>
+    <members>Opportunity_Path</members>
+    <name>PathAssistant</name>
+  </types>
+  <types>
     <members>LightningExperiencePilotCommunications</members>
     <members>LightningExperiencePilotSales</members>
     <name>PermissionSet</name>
@@ -458,6 +471,8 @@
     <name>QuickAction</name>
   </types>
   <types>
+    <members>Account.Others</members>
+    <members>Account.Sales_Profile</members>
     <members>Metric.Completion</members>
     <members>Metric.Progress</members>
     <name>RecordType</name>
