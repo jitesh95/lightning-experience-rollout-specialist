@@ -170,6 +170,7 @@
     <name>CustomPageWebLink</name>
   </types>
   <types>
+    <members>Accounts</members>
     <members>th_con_app__Welcome</members>
     <name>CustomTab</name>
   </types>
