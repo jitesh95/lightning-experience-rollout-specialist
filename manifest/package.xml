@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <members>CreateOppty</members>
@@ -56,6 +56,7 @@
     <name>CompactLayout</name>
   </types>
   <types>
+    <members>Communications</members>
     <members>standard__AppLauncher</members>
     <members>standard__Chatter</members>
     <members>standard__Community</members>
@@ -180,6 +181,7 @@
   </types>
   <types>
     <members>Accounts</members>
+    <members>Key_Sales_Data</members>
     <members>th_con_app__Welcome</members>
     <name>CustomTab</name>
   </types>
@@ -219,6 +221,10 @@
     <name>EscalationRules</name>
   </types>
   <types>
+    <members>All_Lusso_Scarpe_Employees</members>
+    <members>Communications_UtilityBar</members>
+    <members>Group_Record_Page</members>
+    <members>Key_Sales_Data</members>
     <members>LightningSalesConsole_UtilityBar</members>
     <members>LightningService_UtilityBar</members>
     <name>FlexiPage</name>
@@ -251,6 +257,7 @@
     <members>Case-Case %28Support%29 Layout</members>
     <members>Case-Case Layout</members>
     <members>CaseClose-Close Case Layout</members>
+    <members>CollaborationGroup-Group Layout</members>
     <members>CommunityMemberLayout-Community Member Layout</members>
     <members>Contact-Contact %28Marketing%29 Layout</members>
     <members>Contact-Contact %28Sales%29 Layout</members>
@@ -262,6 +269,7 @@
     <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
     <members>EmailMessage-Email Message Layout</members>
     <members>Event-Event Layout</members>
+    <members>FeedItem-Feed Item Layout</members>
     <members>Global-Global Layout</members>
     <members>Idea-Idea Layout</members>
     <members>Lead-Lead %28Marketing%29 Layout</members>
