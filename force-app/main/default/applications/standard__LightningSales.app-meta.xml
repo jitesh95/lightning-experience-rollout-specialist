@@ -59,4 +59,5 @@
     <tabs>standard-Forecasting3</tabs>
     <tabs>Accounts</tabs>
     <uiType>Lightning</uiType>
+    <utilityBar>Sales_UtilityBar</utilityBar>
 </CustomApplication>

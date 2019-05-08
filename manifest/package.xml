@@ -31,6 +31,7 @@
   </types>
   <types>
     <members>CreateOppty</members>
+    <members>TrailheaDX</members>
     <name>AuraDefinitionBundle</name>
   </types>
   <types>
@@ -246,6 +247,7 @@
     <members>LightningSalesConsole_UtilityBar</members>
     <members>LightningService_UtilityBar</members>
     <members>Org_Home</members>
+    <members>Sales_UtilityBar</members>
     <name>FlexiPage</name>
   </types>
   <types>
@@ -471,6 +473,7 @@
   <types>
     <members>Case.LogACall</members>
     <members>Case.NewChildCase</members>
+    <members>Case.UpsellCrosssellOpportunity</members>
     <members>CollaborationGroup.NewGroupMember</members>
     <members>CollaborationGroup.NewGroupRecord</members>
     <members>FeedItem.NewTaskFromFeedItem</members>
@@ -520,6 +523,7 @@
   <types>
     <members>unfiled$public</members>
     <members>unfiled$public/Opportunities_Pipeline_wBv</members>
+    <members>unfiled$public/View_Lightning_Campaign_Influence_Report</members>
     <name>Report</name>
   </types>
   <types>
@@ -620,7 +624,7 @@
   </types>
   <types>
     <members>Account.Billing</members>
-    <members>Campaign.ViewCampaignInfluenceReport</members>
+    <members>Campaign.View_Lightning_Campaign_Influence_Report</members>
     <members>Case.UpsellCrosssellOpportunity</members>
     <members>Opportunity.DeliveryStatus</members>
     <name>WebLink</name>

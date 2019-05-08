@@ -154,7 +154,7 @@
         <editHeading>false</editHeading>
         <layoutColumns>
             <layoutItems>
-                <customLink>ViewCampaignInfluenceReport</customLink>
+                <customLink>View_Lightning_Campaign_Influence_Report</customLink>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>

@@ -12,6 +12,9 @@
         <componentInstances>
             <componentName>home:recentRecordContainer</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>TrailheaDX</componentName>
+        </componentInstances>
         <mode>Replace</mode>
         <name>bottomLeft</name>
         <type>Region</type>
