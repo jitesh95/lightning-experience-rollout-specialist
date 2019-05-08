@@ -186,6 +186,11 @@
     <name>CustomTab</name>
   </types>
   <types>
+    <members>Sales_Manager</members>
+    <members>Sales_Manager/xPdjwYlhepsIlIUcpUWVrnjBNrQqEu</members>
+    <name>Dashboard</name>
+  </types>
+  <types>
     <members>Company_Images</members>
     <members>Company_Images/LEX_Badge.png</members>
     <name>Document</name>
@@ -221,6 +226,7 @@
     <name>EscalationRules</name>
   </types>
   <types>
+    <members>Account_Record_Page</members>
     <members>All_Lusso_Scarpe_Employees</members>
     <members>Communications_UtilityBar</members>
     <members>Group_Record_Page</members>
@@ -491,6 +497,7 @@
   </types>
   <types>
     <members>unfiled$public</members>
+    <members>unfiled$public/Opportunities_Pipeline_wBv</members>
     <name>Report</name>
   </types>
   <types>
