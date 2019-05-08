@@ -57,6 +57,7 @@
   </types>
   <types>
     <members>Communications</members>
+    <members>Lightning_Knowledge</members>
     <members>standard__AppLauncher</members>
     <members>standard__Chatter</members>
     <members>standard__Community</members>
@@ -91,6 +92,8 @@
     <members>Contact.Languages__c</members>
     <members>Contact.Level__c</members>
     <members>Goal.OrigGoalId__c</members>
+    <members>Knowledge__kav.Answer__c</members>
+    <members>Knowledge__kav.Question__c</members>
     <members>Lead.CurrentGenerators__c</members>
     <members>Lead.NumberofLocations__c</members>
     <members>Lead.Primary__c</members>
@@ -138,8 +141,10 @@
     <members>ForecastingCategoryMapping</members>
     <members>Idea</members>
     <members>Image</members>
+    <members>Knowledge__kav</members>
     <members>Lead</members>
     <members>LeadCleanInfo</members>
+    <members>LinkedArticle</members>
     <members>Macro</members>
     <members>MacroAction</members>
     <members>MacroInstruction</members>
@@ -176,12 +181,17 @@
     <name>CustomObject</name>
   </types>
   <types>
+    <members>Knowledge__kav-en_US</members>
+    <name>CustomObjectTranslation</name>
+  </types>
+  <types>
     <members>TrailheaDX_Registration</members>
     <name>CustomPageWebLink</name>
   </types>
   <types>
     <members>Accounts</members>
     <members>Key_Sales_Data</members>
+    <members>Knowledge__kav</members>
     <members>th_con_app__Welcome</members>
     <name>CustomTab</name>
   </types>
@@ -228,11 +238,14 @@
   <types>
     <members>Account_Record_Page</members>
     <members>All_Lusso_Scarpe_Employees</members>
+    <members>Case_Record_Page</members>
     <members>Communications_UtilityBar</members>
     <members>Group_Record_Page</members>
     <members>Key_Sales_Data</members>
+    <members>Lightning_Knowledge_UtilityBar</members>
     <members>LightningSalesConsole_UtilityBar</members>
     <members>LightningService_UtilityBar</members>
+    <members>Org_Home</members>
     <name>FlexiPage</name>
   </types>
   <types>
@@ -278,6 +291,9 @@
     <members>FeedItem-Feed Item Layout</members>
     <members>Global-Global Layout</members>
     <members>Idea-Idea Layout</members>
+    <members>Knowledge__kav-communitypagelayout</members>
+    <members>Knowledge__kav-faqpagelayout</members>
+    <members>Knowledge__kav-productpagelayout</members>
     <members>Lead-Lead %28Marketing%29 Layout</members>
     <members>Lead-Lead %28Sales%29 Layout</members>
     <members>Lead-Lead %28Support%29 Layout</members>
@@ -343,6 +359,9 @@
     <members>Contract.MyDraftContracts</members>
     <members>Contract.MyInApprovalContracts</members>
     <members>Idea.Ideas_Last_7_Days</members>
+    <members>Knowledge__kav.archived_articles</members>
+    <members>Knowledge__kav.draft_articles</members>
+    <members>Knowledge__kav.published_articles</members>
     <members>Lead.AllOpenLeads</members>
     <members>Lead.MyUnreadLeads</members>
     <members>Lead.TodaysLeads</members>
@@ -487,6 +506,9 @@
   <types>
     <members>Account.Others</members>
     <members>Account.Sales_Profile</members>
+    <members>Knowledge__kav.Community</members>
+    <members>Knowledge__kav.FAQ</members>
+    <members>Knowledge__kav.Product</members>
     <members>Metric.Completion</members>
     <members>Metric.Progress</members>
     <name>RecordType</name>
@@ -583,7 +605,9 @@
     <members>ContentDocument</members>
     <members>Contract</members>
     <members>Event</members>
+    <members>Knowledge__kav</members>
     <members>Lead</members>
+    <members>LinkedArticle</members>
     <members>Opportunity</members>
     <members>Order</members>
     <members>Solution</members>
