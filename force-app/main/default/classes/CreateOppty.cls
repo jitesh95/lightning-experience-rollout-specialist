@@ -7,7 +7,7 @@ public class CreateOppty {
         Date d = Date.today().addMonths(1);
         Opportunity newOpp = new Opportunity(Name=oppName, 
                                              AccountId=caseRecord.AccountId, 
-                                             StageName='Perception Analysis', 
+                                             StageName='Perception Analysis TEST THE SUREKHA CHANGES', 
                                              CloseDate=d);
         
         insert newOpp;
